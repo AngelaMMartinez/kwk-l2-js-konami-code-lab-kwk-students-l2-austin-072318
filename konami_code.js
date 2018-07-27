@@ -11,6 +11,8 @@ const codes = [
   "a"
 ];
 
-function init() {
-  document.body()
-}
+const button1 = 
+  document.addEventListener('keydown',function(event){
+    alert('I was clicked')
+  })
+
